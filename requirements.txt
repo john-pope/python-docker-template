@@ -1,0 +1,5 @@
+# for internal packages, use format:
+# git+ssh://git@github.com/{username}/{project}.git@{branch|tag|commit-hash}#egg={package}=={version}
+
+# Don't do naked identifiers for internal packages!
+# package-org

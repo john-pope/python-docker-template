@@ -1,0 +1,6 @@
+*.pyc
+
+/docker_config/ssh/keys/
+
+/venv/
+/.env*
